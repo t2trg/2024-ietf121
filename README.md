@@ -9,7 +9,7 @@ Local time in various locations: TBD <https://www.timeanddate.com/worldclock/fix
 
 ## Logistics
 
-Register for IETF110: <https://www.ietf.org/meeting/register/>
+Register for IETF121: <https://www.ietf.org/meeting/register/>
 
 ## Materials
 
@@ -24,13 +24,12 @@ Repo: <https://github.com/t2trg/2024-ietf121>
 Please contact the [chairs][] for any changes required.
 
 |  Time | Who             | Subject                                            | Docs |
-|-------+-----------------+----------------------------------------------------+------|
+|-------|-----------------|----------------------------------------------------|------|
 | 00:00 | Chairs          | Intro, RG status, upcoming meetings and activities |      |
 | 00:10 | Chairs, various | 11 years of T2TRG                                  |      |
 | 00:25 |                 | (TBD)                                              |      |
 | 01:50 | Chairs          | Wrap-up                                            |      |
 | 02:00 |                 | end of meeting                                     |      |
-
 
 [WISHI]: https://github.com/t2trg/wishi/wiki/Agenda-items
 [restiot]: https://tools.ietf.org/html/draft-irtf-t2trg-rest-iot
