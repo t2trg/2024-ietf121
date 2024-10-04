@@ -46,7 +46,13 @@ Other T2TRG activities
 
 * [IETF121 Hackathon, Saturday/Sunday, November 2/3, 2024][Hackathon]
 
-[Hackathon]: https://ietf.org/
+To register for the Hackathon (and/or for the IETF main meeting), you
+need an [IETF datatracker account][dt-create].
+
+[dt-create]: https://datatracker.ietf.org/accounts/create/
+
+[Hackathon]: https://www.ietf.org/meeting/hackathons/121-hackathon/
+[Hackathon-reg]: https://www.ietf.org/meeting/hackathons/121-hackathon/
 
 Note that US DST ends 2024-11-03, while EU DST already ends a week
 earlier at 2024-10-27, so the week before IETF including half of the
