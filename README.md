@@ -36,8 +36,7 @@ Please contact the [chairs][] for any changes required.
 | 10:10 | Manoj Gudi       | (Sharing data models between SenML and CoRECONF)                                 |      |
 | 10:30 | Marco Tiloca     | Overview of Architecture and Components for Secure Group Communication with CoAP |      |
 | 10:50 | Christian Amsüss | Building onion routing from CoRE building blocks                                 |      |
-| 11:05 |                  | (TBD: amplification attacks *with* CoAP)                                         |      |
-|       |                  | (TBD: onboarding, manufacturer installed keys and trust anchors)                 |      |
+| 11:05 |                  | (TBD: onboarding, manufacturer installed keys and trust anchors)                 |      |
 | 11:20 | Chairs           | Wrap-up                                                                          |      |
 | 11:30 |                  | end of meeting                                                                   |      |
 
