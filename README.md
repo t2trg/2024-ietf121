@@ -1,11 +1,12 @@
 # 2024-ietf121
 Planning and materials for T2TRG @ IETF 121
 
-T2TRG virtual summary meeting -- agenda draft 0.1
+T2TRG face-to-face/hybrid summary meeting -- agenda draft 0.5
 
-**Time:** TBD, 2024-10-04 Friday Preliminary Agenda published for comment
+**Date:** Thu 2024-11-07
+**Time:** 09:30–11:30 (UTC, also venue time zone)
 
-Local time in various locations: TBD <https://www.timeanddate.com/worldclock/fixedtime.html?msg=T2TRG+Summary+Meeting&iso=20241111T1111&p1=%3A&ah=2>
+Local time in various locations: https://www.timeanddate.com/worldclock/fixedtime.html?msg=T2TRG+Summary+Meeting&iso=2024-11-07T09:30:00&ah=2
 
 ## Logistics
 
