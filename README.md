@@ -22,15 +22,24 @@ Repo: <https://github.com/t2trg/2024-ietf121>
 
 ## Draft agenda
 
+(Titles in parentheses are the chairs' guesses.)
+
 Please contact the [chairs][] for any changes required.
 
-|  Time | Who             | Subject                                            | Docs |
-|-------|-----------------|----------------------------------------------------|------|
-| 00:00 | Chairs          | Intro, RG status, upcoming meetings and activities |      |
-| 00:10 | Chairs, various | 11 years of T2TRG                                  |      |
-| 00:25 |                 | (TBD)                                              |      |
-| 01:50 | Chairs          | Wrap-up                                            |      |
-| 02:00 |                 | end of meeting                                     |      |
+(All times are in UTC, which coincides with local time at the venue.)
+
+|  Time | Who             | Subject                                                                          | Docs |
+|-------|-----------------|----------------------------------------------------------------------------------|------|
+| 09:30 | Chairs          | Intro, RG status, brief Hackathon report, upcoming meetings and activities       |      |
+| 09:40 | Chairs, various | 11 years of T2TRG                                                                |      |
+| 09:55 | Niklas Meyer    | (Converting interaction models between SDF and Matter)                           |      |
+| 10:10 | Manoj Gudi      | (Sharing data models between SenML and CoRECONF)                                 |      |
+| 10:30 | Marco Tiloca    | Overview of Architecture and Components for Secure Group Communication with CoAP |      |
+| 10:50 |                 | (TBD: general OSCORE cleanup for proxies, Onion, etc.)                           |      |
+|       |                 | (TBD: amplification attacks *with* CoAP)                                         |      |
+|       |                 | (TBD: onboarding, manufacturer installed keys and trust anchors)                 |      |
+| 11:20 | Chairs          | Wrap-up                                                                          |      |
+| 11:30 |                 | end of meeting                                                                   |      |
 
 [WISHI]: https://github.com/t2trg/wishi/wiki/Agenda-items
 [restiot]: https://tools.ietf.org/html/draft-irtf-t2trg-rest-iot
