@@ -48,7 +48,7 @@ Please contact the [chairs][] for any changes required.
 [idevid]: https://tools.ietf.org/html/draft-richardson-t2trg-idevid-considerations-01
 [senml-coreconf]: https://www.ietf.org/archive/id/draft-gudi-t2trg-senml-as-coreconf-00.html
 [onion-coap]: https://www.ietf.org/archive/id/draft-amsuess-t2trg-onion-coap-02.html
-[sec-setup]: https://www.ietf.org/archive/id/draft-irtf-t2trg-security-setup-iot-devices-03.html'
+[sec-setup]: https://www.ietf.org/archive/id/draft-irtf-t2trg-security-setup-iot-devices-03.html
 [amplification-attacks]: https://www.ietf.org/archive/id/draft-irtf-t2trg-amplification-attacks-03.html
 
 ## Related Events:
