@@ -30,12 +30,12 @@ Please contact the [chairs][] for any changes required.
 
 |  Time | Who                | Subject                                                                          | Docs |
 |-------|--------------------|----------------------------------------------------------------------------------|------|
-| 09:30 | Chairs             | Intro, RG status, brief Hackathon report, upcoming meetings and activities       |      |
+| 09:30 | Chairs             | Intro, RG status, brief Hackathon report, upcoming meetings and activities       | [restiot][], [sec-setup][], [amplification-attacks][]     |
 | 09:40 | Chairs, various    | 11 years of T2TRG                                                                |      |
 | 09:55 | Niklas Meyer       | Converting interaction models between SDF and Matter                             |      |
-| 10:10 | Manoj Gudi         | Sharing data models between SenML and CoRECONF                                   |      |
+| 10:10 | Manoj Gudi         | Sharing data models between SenML and CoRECONF                                   | [senml-coreconf][]     |
 | 10:30 | Marco Tiloca       | Overview of Architecture and Components for Secure Group Communication with CoAP |      |
-| 10:50 | Christian Amsüss   | Building onion routing from CoRE building blocks                                 |      |
+| 10:50 | Christian Amsüss   | Building onion routing from CoRE building blocks                                 | [onion-coap][]     |
 | 11:05 | Michael Richardson | Trusted IoT Network-Layer Onboarding                                             |      |
 | 11:25 | Chairs             | Wrap-up                                                                          |      |
 | 11:30 |                    | end of meeting                                                                   |      |
@@ -45,9 +45,11 @@ Please contact the [chairs][] for any changes required.
 [chairs]: mailto:t2trg-chairs@irtf.org
 [iotschemacg]: https://www.w3.org/community/iotschema/
 [W3CWoT]: https://www.w3.org/WoT/
-[edge]: https://tools.ietf.org/html/draft-irtf-t2trg-iot-edge
-[sboot]: https://datatracker.ietf.org/doc/html/draft-sarikaya-t2trg-sbootstrapping-11
 [idevid]: https://tools.ietf.org/html/draft-richardson-t2trg-idevid-considerations-01
+[senml-coreconf]: https://www.ietf.org/archive/id/draft-gudi-t2trg-senml-as-coreconf-00.html
+[onion-coap]: https://www.ietf.org/archive/id/draft-amsuess-t2trg-onion-coap-02.html
+[sec-setup]: https://www.ietf.org/archive/id/draft-irtf-t2trg-security-setup-iot-devices-03.html'
+[amplification-attacks]: https://www.ietf.org/archive/id/draft-irtf-t2trg-amplification-attacks-03.html
 
 ## Related Events:
 
