@@ -1,7 +1,7 @@
 # 2024-ietf121
 Planning and materials for T2TRG @ IETF 121
 
-T2TRG face-to-face/hybrid summary meeting -- agenda draft 0.6
+T2TRG face-to-face/hybrid summary meeting -- agenda draft 0.7
 
 **Date:** Thu 2024-11-07
 **Time:** 09:30–11:30 (UTC, also venue time zone)
@@ -28,17 +28,17 @@ Please contact the [chairs][] for any changes required.
 
 (All times are in UTC, which coincides with local time at the venue.)
 
-|  Time | Who                | Subject                                                                          | Docs |
-|-------|--------------------|----------------------------------------------------------------------------------|------|
-| 09:30 | Chairs             | Intro, RG status, brief Hackathon report, upcoming meetings and activities       | [restiot][], [sec-setup][], [amplification-attacks][]     |
-| 09:40 | Chairs, various    | 11 years of T2TRG                                                                |      |
-| 09:55 | Niklas Meyer       | Converting interaction models between SDF and Matter                             |      |
-| 10:10 | Manoj Gudi         | Sharing data models between SenML and CoRECONF                                   | [senml-coreconf][]     |
-| 10:30 | Marco Tiloca       | Overview of Architecture and Components for Secure Group Communication with CoAP |      |
-| 10:50 | Christian Amsüss   | Building onion routing from CoRE building blocks                                 | [onion-coap][]     |
-| 11:05 | Michael Richardson | Trusted IoT Network-Layer Onboarding                                             |      |
-| 11:25 | Chairs             | Wrap-up                                                                          |      |
-| 11:30 |                    | end of meeting                                                                   |      |
+|  Time | Who                | Subject                                                                                                 | Docs |
+|-------|--------------------|---------------------------------------------------------------------------------------------------------|------|
+| 09:30 | Chairs             | Intro, RG status, brief Hackathon report, upcoming meetings and activities                              | [restiot][], [sec-setup][], [amplification-attacks][] |
+| 09:40 | Chairs, various    | 11 years of T2TRG                                                                                       |      |
+| 09:55 | Niklas Meyer       | Converting interaction models between SDF and Matter                                                    |      |
+| 10:10 | Manoj Gudi         | Sharing data models between SenML and CoRECONF                                                          | [senml-coreconf][] |
+| 10:30 | Marco Tiloca       | Overview of Architecture and Components for Secure Group Communication with CoAP                        |      |
+| 10:50 | Christian Amsüss   | Building onion routing from CoRE building blocks                                                        | [onion-coap][] |
+| 11:05 | Michael Richardson | A summary of the NIST NCCoE Trusted IoT Device Network-Layer Onboarding and Lifecycle Management effort |      |
+| 11:25 | Chairs             | Wrap-up                                                                                                 |      |
+| 11:30 |                    | end of meeting                                                                                          |      |
 
 [WISHI]: https://github.com/t2trg/wishi/wiki/Agenda-items
 [restiot]: https://tools.ietf.org/html/draft-irtf-t2trg-rest-iot
